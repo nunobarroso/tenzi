@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/tenzi/static/js/main.1cae98c4.js",
+    "static/js/787.7e2466ed.chunk.js": "/tenzi/static/js/787.7e2466ed.chunk.js",
+    "index.html": "/tenzi/index.html",
+    "main.1cae98c4.js.map": "/tenzi/static/js/main.1cae98c4.js.map",
+    "787.7e2466ed.chunk.js.map": "/tenzi/static/js/787.7e2466ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1cae98c4.js"
+  ]
+}
